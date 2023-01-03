@@ -1,4 +1,4 @@
-# Library: GetGoodDrums Matt Halpern Signature Pack
+# Library: Get Good Drums | Matt Halpern Signature Pack
 # Mapping: Halpern
 83 Splash
 81 Stack Tight

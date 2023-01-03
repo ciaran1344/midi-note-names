@@ -1,0 +1,22 @@
+# Library: Solemn Tones | Loki Bass 2
+33 Slide Down Slow
+32 Slide Down Fast
+31 Slide Up Slow
+30 Slide Up Fast
+29 Up Mute Picking
+28 Down Mute Picking
+27 Alt Mute Picking
+26 Up Picking
+25 Down Picking
+24 Alt Picking
+23 Scrapes
+21 Harmonics
+14 Pull Off
+13 Hammer On
+12 Left Hand Slap
+11 Thumb Slap
+10 Finger Pluck Dead
+09 Finger Pluck Open
+07 Sliding
+01 Finger Pick Up
+00 Finger Pick Down
