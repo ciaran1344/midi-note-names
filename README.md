@@ -8,4 +8,4 @@ Various MIDI note name mappings for use with Reaper and other DAWs.
 
 #### Mappings
 
-1. [Halpern](GetGoodDrums\MattHalpernSignaturePack\halpern.txt)
+1. [Halpern](./GetGoodDrums/MattHalpernSignaturePack/halpern.txt)
