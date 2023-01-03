@@ -1,0 +1,25 @@
+# Library: GetGoodDrums Matt Halpern Signature Pack
+# Mapping: Halpern
+83 Splash
+81 Stack Tight
+77 China Choke
+76 China
+75 Ride Bell Shoulder
+74 Ride Bell Tip
+72 Ride Tip
+69 Crash R Choke
+67 Crash R
+64 Crash L Choke
+62 Crash L
+53 Hat Tip Open 2
+51 Hat Tip Open 1
+49 Hat Tip Loose
+47 Hat Tip Closed
+44 Hat Pedal Ching
+43 Hat Pedal Chik
+39 Tom Floor
+37 Tom Mid 2
+35 Tom Mid 1
+33 Tom High
+26 Snare
+24 Kick
