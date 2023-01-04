@@ -1,4 +1,4 @@
-# Library: Get Good Drums | Matt Halpern Signature Pack
+# Library: Get Good Drums | Matt Halpern Signature
 # Mapping: Halpern
 83 Splash
 81 Stack Tight
@@ -16,7 +16,7 @@
 49 Hat Tip Loose
 47 Hat Tip Closed
 44 Hat Pedal Ching
-43 Hat Pedal Chik
+43 Hat Pedal Chick
 39 Tom Floor
 37 Tom Mid 2
 35 Tom Mid 1

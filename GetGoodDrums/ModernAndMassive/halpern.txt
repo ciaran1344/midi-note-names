@@ -1,0 +1,32 @@
+# Library: Get Good Drums | Modern & Massive
+# Mapping: Halpern
+83 Splash
+82 Splash Choke
+77 China Choke
+76 China
+74 Ride Bell
+73 Ride
+72 Ride Tip
+69 Crash R Choke
+67 Crash R
+64 Crash L Choke
+62 Crash L
+58 Hat Open 4
+56 Hat Open 3
+54 Hat Open 2
+53 Hat Open 1
+48 Hat Closed Loose
+47 Hat Closed
+45 Hat Tight
+44 Hat Pedal Ching
+43 Hat Pedal Chick
+39 Tom Floor 2
+37 Tom Floor 1
+35 Tom Floor 1
+33 Tom Rack
+30 Snare Side Stick
+29 Snare Off
+28 Snare Ruff
+27 Snare Flam
+26 Snare
+24 Kick
